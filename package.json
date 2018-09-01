@@ -1,0 +1,23 @@
+{
+  "name": "jest-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^23.5.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.4.2",
+    "babel-loader": "^8.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "regenerator-runtime": "^0.12.1"
+  },
+  "scripts": {
+    "test": "jest --verbose",
+    "jestInit": "jest --init"
+  },
+  "author": "",
+  "license": "ISC"
+}

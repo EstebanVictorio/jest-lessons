@@ -1,0 +1,4 @@
+.idea/*
+node_modules/*
+jest-lessons.iml
+package-lock.json
